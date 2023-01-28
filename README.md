@@ -1,16 +1,16 @@
-# hive_simple_crud_app
+This is a simple flutter app that demonstrates integration hive local database to our flutter project 
+You can use this project to learn basic crud operation in hive flutter
 
-A new Flutter project.
+packages used:
+hive_flutter
+build_runner
+hive_generator
 
-## Getting Started
+only native styling is used so no complicated design thing is in the project so you can easily use this project for learning 
 
-This project is a starting point for a Flutter application.
+Cheers..
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://user-images.githubusercontent.com/115061533/215253329-8baa3bf1-67ef-4cd2-8923-b2c45b0b486f.mp4
+
